@@ -1,0 +1,32 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.commontext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.links{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-decoration: underline;
+    background-color: white;
+    color: palevioletred;
+}
+
+.ends{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-decoration:underline;
+    background-color: white;
+    color:darkslategrey;
+    margin-left: 7cm;
+}
+

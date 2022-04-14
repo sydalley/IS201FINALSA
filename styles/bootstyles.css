@@ -1,0 +1,35 @@
+.header{
+    height:200px;
+    background-color: cadetblue;
+    line-height:100px;
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    color:whitesmoke;
+
+}
+
+.navigation{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: cadetblue;
+    color:white;
+}
+
+
+.footer{
+    height:100px;
+    background-color: beige;
+}
+
+.footertext{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: beige;
+    color: black;
+    text-align: center;
+}
